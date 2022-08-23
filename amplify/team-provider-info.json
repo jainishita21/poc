@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-indianregionpoc-dev-120415-authRole",
+      "UnauthRoleArn": "arn:aws:iam::911900210609:role/amplify-indianregionpoc-dev-120415-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::911900210609:role/amplify-indianregionpoc-dev-120415-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-indianregionpoc-dev-120415-deployment",
+      "UnauthRoleName": "amplify-indianregionpoc-dev-120415-unauthRole",
+      "StackName": "amplify-indianregionpoc-dev-120415",
+      "StackId": "arn:aws:cloudformation:ap-south-1:911900210609:stack/amplify-indianregionpoc-dev-120415/9cfa4f50-22ad-11ed-b32e-06c88df240ec",
+      "AmplifyAppId": "dm1vlf9m8oujr"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "indianregionpoc",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\PROJECTS\\indianregionpoc\\amplify\\backend\\api\\indianregionpoc\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
